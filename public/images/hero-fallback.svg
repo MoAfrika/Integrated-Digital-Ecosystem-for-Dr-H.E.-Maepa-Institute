@@ -1,0 +1,13 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#07182f"/>
+  <path d="M0 640C280 520 470 720 760 600C1030 490 1190 240 1600 330V900H0V640Z" fill="#123f73"/>
+  <path d="M0 720C310 630 520 790 790 680C1030 583 1260 430 1600 500V900H0V720Z" fill="#17599e"/>
+  <circle cx="1184" cy="226" r="92" fill="#f2c86b"/>
+  <g transform="translate(570 310) rotate(-8)">
+    <rect x="0" y="0" width="470" height="210" rx="18" fill="#0b2244" stroke="#d9a441" stroke-width="8"/>
+    <path d="M118 0V210M236 0V210M354 0V210M0 70H470M0 140H470" stroke="#5fa8f6" stroke-width="5"/>
+    <path d="M235 210V330" stroke="#d9a441" stroke-width="12"/>
+    <path d="M160 330H310" stroke="#d9a441" stroke-width="12" stroke-linecap="round"/>
+  </g>
+  <text x="94" y="176" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="800">Dr. H.E. Maepa Institute</text>
+</svg>
