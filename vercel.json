@@ -1,0 +1,1 @@
+{"framework":null,"installCommand":"unzip -oq institute-source.zip -d institute-build && cd institute-build && npm ci","buildCommand":"cd institute-build && npm run build","outputDirectory":"institute-build/out"}
